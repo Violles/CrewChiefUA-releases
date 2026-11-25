@@ -1,0 +1,115 @@
+{
+  "Updates": [
+    {
+      "Version": 2,
+      "Notes": "Оновлення голосового паку 2",
+      "Parts": [
+        {
+          "File": "voicepack-2-1.zip",
+          "Sha256": "34f5bed6923b8e99e5bed6c4e6df1829b8e0a1f6a02bce6046802fad1c0fb354",
+          "Size": 20624639
+        },
+        {
+          "File": "voicepack-2-2.zip",
+          "Sha256": "201582ea4919e021c243b944b1489ba6ab01764a1059875e8f30f3a02a9d5a09",
+          "Size": 14360115
+        },
+        {
+          "File": "voicepack-2-3.zip",
+          "Sha256": "a9a7b8bedfab89a186cad4c065cb56cb8402568a62bd6a52accd66834d35613a",
+          "Size": 14086178
+        },
+        {
+          "File": "voicepack-2-4.zip",
+          "Sha256": "91558f56321dac8969c83b56a16e516c5b02843219c7f23ce90bc1386fa994f4",
+          "Size": 14109079
+        },
+        {
+          "File": "voicepack-2-5.zip",
+          "Sha256": "39e08fcacf6999c21f6f018d319c5cd44a2b8e409da4b400b3643624d59f5cc2",
+          "Size": 14121942
+        },
+        {
+          "File": "voicepack-2-6.zip",
+          "Sha256": "795c1ea9e2b3a4558c7d2f188f2259ec17d8667fae73d1b35ffec3fa16ccbd3a",
+          "Size": 14153014
+        },
+        {
+          "File": "voicepack-2-7.zip",
+          "Sha256": "d324d9dd2d98e0a31db98896cabd009856d5955d3cdc431801b84cbd1431b57c",
+          "Size": 14154425
+        },
+        {
+          "File": "voicepack-2-8.zip",
+          "Sha256": "1cb107b3ec441a8c419550a723afa4d199804a8f87a228fe21642ff3aca74c55",
+          "Size": 14158588
+        },
+        {
+          "File": "voicepack-2-9.zip",
+          "Sha256": "d84f07b3f19aa7fd92bb6d7b6b391b28a811db7ad04301440a3d565e1f0000c4",
+          "Size": 14164036
+        },
+        {
+          "File": "voicepack-2-10.zip",
+          "Sha256": "c2ad42cb47e0b25a2658a6b89d0dd71edf9e370e796f843dbea140d20da3e73c",
+          "Size": 14164155
+        },
+        {
+          "File": "voicepack-2-11.zip",
+          "Sha256": "3ebbe308460af7497222aa77d32654c623d9b3642dd404d6a528d129dc6f64e0",
+          "Size": 14164354
+        },
+        {
+          "File": "voicepack-2-12.zip",
+          "Sha256": "f74aa57f3cbc5a4f22b2ab2dc71e8219db9ae8dcf41a695db045a2450c3ad5b1",
+          "Size": 14164569
+        },
+        {
+          "File": "voicepack-2-13.zip",
+          "Sha256": "060deb3021ed0ef7742ab12d8b9bfb94acc110e668a2877a6dbadd56b5243631",
+          "Size": 14165135
+        },
+        {
+          "File": "voicepack-2-14.zip",
+          "Sha256": "a0d37a0711ff263251c850ea01c599118ceb7dd0498ec002531b3bfae4d1048f",
+          "Size": 14165533
+        },
+        {
+          "File": "voicepack-2-15.zip",
+          "Sha256": "6e477e32101847b6b89719941d5156c80e862219dc313e07319af457188cbc5e",
+          "Size": 14165946
+        },
+        {
+          "File": "voicepack-2-16.zip",
+          "Sha256": "7b8f140db908c1e36b0ea41fb25de193c8fc197e2df24eebbc440e39ec165642",
+          "Size": 23500421
+        },
+        {
+          "File": "voicepack-2-17.zip",
+          "Sha256": "4e60b87733a5215d2afe242f9a9f1d780678e84f119379ee7c931d6a0760f33a",
+          "Size": 23161620
+        },
+        {
+          "File": "voicepack-2-18.zip",
+          "Sha256": "ce057d7cacf65b3aca0fee2cf32baff005f5e6fb69fb50bdeaa5716de09cac6b",
+          "Size": 23279724
+        },
+        {
+          "File": "voicepack-2-19.zip",
+          "Sha256": "3a05d57ba7a2bdcdbac92682f3e7b343e4000db0846475668fd8c0716ec35152",
+          "Size": 22200332
+        },
+        {
+          "File": "voicepack-2-20.zip",
+          "Sha256": "738b74f64525275845e489ca893451ae020e83c2196882e0e81a993196790543",
+          "Size": 14416412
+        }
+      ],
+      "Deleted": [],
+      "Changed": 1681,
+      "Sig": "Tl6gGUlYi4AXqdEY9c5ln6ylmrCVbIQE2d7WY+lOG3w4eZ3rpg6TqbHQEjq8rWJrJt4WQOrWGLYZCdZ28FLi4w==",
+      "Size": 325480217
+    }
+  ],
+  "Latest": 2
+}
