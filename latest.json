@@ -1,8 +1,8 @@
 {
-  "Version": "0.11.0",
-  "Notes": "RaceRoom Racing Experience — нова гра:\n- спотер, суперники, таблиця, релатів, карта, HUD\n- інженер: кола, сектори, паливо (дає сама гра), шини, знос шин, тиск, температури\n- прапори і штрафи RaceRoom з причиною (фальстарт, синій, зрізання, обгін під жовтим…)\n- пошкодження двигуна і коробки окремо\n- енергія для машин з віртуальною енергією\n- класи з r3e-data.json гри для мультикласу",
-  "File": "CrewChiefUA-0.11.0.zip",
-  "Sha256": "4b5ad4ed0024885f849d3411dea10e54e5fbeca4a57857e54168f917cf7e6f64",
-  "Size": 374818,
-  "Sig": "RleQiwQ9tZzIAWl9vjqfSArTV2Fw8U926+RaIJH244i1YavjZTzMpNocAZS14JfFtaJaLxcHM/HyTnKmlCZ0mg=="
+  "Version": "0.11.1",
+  "Notes": "- На головній: кнопки увімкнути/вимкнути Крю Чіф (спотер та інженер), голосового помічника і HUD\n- Кожному перемикачу можна призначити кнопку керма або клавішу\n- Увімкнення Крю Чіфа — «перевірка зв'язку»\n- Погода ACC: «сонце з хмарками» тепер як у HUD самої гри",
+  "File": "CrewChiefUA-0.11.1.zip",
+  "Sha256": "63aec3c625c9bdb1c90a3dca4ecf8a90a024af728c4aad8518ff192a23b11c0d",
+  "Size": 377181,
+  "Sig": "+MxugtXiE1OpRAGsOrrxuv/bXm68t5drD8taj6waUzwYEfJa7JxH5lAdRBGhdRug/c1bvFtGgffdQL8f0pQFng=="
 }
