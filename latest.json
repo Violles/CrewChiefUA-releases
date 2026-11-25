@@ -1,8 +1,8 @@
 {
-  "Version": "0.10.2",
-  "Notes": "- Оновлення голосового паку прямо з програми: картка «Оновлення голосового паку» на головній, без перезапуску\n- На головній видно версію голосового паку",
-  "File": "CrewChiefUA-0.10.2.zip",
-  "Sha256": "a374f0e0221d5d2cf745a949bf73951da3b809147f779c4adf99669f83356306",
-  "Size": 368271,
-  "Sig": "2RVyJyX2KlVUPNgSLpUNTbEhRIHIacxUdQKUz0ksWTjQ9na6FceofU9jRKw8ru8cNjoC9yLk98f+ljdw244BtA=="
+  "Version": "0.11.0",
+  "Notes": "RaceRoom Racing Experience — нова гра:\n- спотер, суперники, таблиця, релатів, карта, HUD\n- інженер: кола, сектори, паливо (дає сама гра), шини, знос шин, тиск, температури\n- прапори і штрафи RaceRoom з причиною (фальстарт, синій, зрізання, обгін під жовтим…)\n- пошкодження двигуна і коробки окремо\n- енергія для машин з віртуальною енергією\n- класи з r3e-data.json гри для мультикласу",
+  "File": "CrewChiefUA-0.11.0.zip",
+  "Sha256": "4b5ad4ed0024885f849d3411dea10e54e5fbeca4a57857e54168f917cf7e6f64",
+  "Size": 374818,
+  "Sig": "RleQiwQ9tZzIAWl9vjqfSArTV2Fw8U926+RaIJH244i1YavjZTzMpNocAZS14JfFtaJaLxcHM/HyTnKmlCZ0mg=="
 }
