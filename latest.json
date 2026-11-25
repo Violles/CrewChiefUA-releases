@@ -1,8 +1,8 @@
 {
-  "Version": "0.12.0",
+  "Version": "0.11.4",
   "Notes": "Паливо — як у Crew Chief, для всіх ігор:\n- середнє за останні 2-5 кіл (залежно від довжини траси), рахується лише після старту / коли їдеш\n- після дозаправки — заново; витрата за хвилину для гонок на час\n- прогноз на поточне коло уточнюється прямо під час кола\n- Hypercar / віртуальна енергія: показує, що закінчиться раніше — паливо чи енергія",
-  "File": "CrewChiefUA-0.12.0.zip",
-  "Sha256": "28d978b51932c75864d2522cbfefea99616245d86dca15bf8cf029aec5caade2",
-  "Size": 467187,
-  "Sig": "VhEX4QnUmxbD1RuTQD1CCEFjpykEYUQjJF0wND9T8VnUtY9AOrZM2+xbCbYS30XA8rO4YcFEWaXEdhS0/rbIcQ=="
+  "File": "CrewChiefUA-0.11.4.zip",
+  "Sha256": "0a19a505e6d1d33245214696dd49395cd0ed5ab3c516f808c2d3b26d2560b907",
+  "Size": 467203,
+  "Sig": "Ndt/ivTrZCmuYe2r0fRIZ9zcpFIObsg1v0j+Jotg0fg0sjxk7VoGR/tKjrsnJkBIocgrx6PxIESkWvgyBzsEjQ=="
 }
