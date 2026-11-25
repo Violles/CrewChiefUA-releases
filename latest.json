@@ -1,8 +1,8 @@
 {
-  "Version": "0.10.0",
-  "Notes": "- Перша версія з автооновленням\n- Ліцензія: 3 дні пробного періоду, активація кодом\n- Погода окремим віджетом, модель пошкоджень, помічник заїзду в бокс\n- Межі треку LMU, Real Penalty для AC",
-  "File": "CrewChiefUA-0.10.0.zip",
-  "Sha256": "b82120ba385492fa1e0d38647f63195b76f8a84cc0c9e38a1db2719cdbd01079",
-  "Size": 359617,
-  "Sig": "qQYaNMuP3Pdn7b+Upn/LOOz2gvNIIQ08o0ibLc4O1ODuBNxyHTN3WYMBX2RqJzfxLwoafD+hUBTNd9G5aUmhuQ=="
+  "Version": "0.10.1",
+  "Notes": "Le Mans Ultimate:\n- знос шин (легкий / помітний / сильний)\n- прокол і втрачене колесо\n- повний жовтий / сейфті-кар: початок, піт закритий/відкритий, готуйся, зелений\n- енергія Hypercar: витрата за коло, скільки кіл лишилось, мало/критично\n- гаряче масло\n- класи Hypercar/LMDh у мультикласі\nМультиклас (ACC і LMU):\n- лідер класу, «бореться з нами за позицію», група б'ється між собою",
+  "File": "CrewChiefUA-0.10.1.zip",
+  "Sha256": "5f5a87db278a29dea4881fd73ef77867e1f9efc1a063f2f874880ddd77775b84",
+  "Size": 362221,
+  "Sig": "mAwy6AD2DV3IhdI/8EWR4Ygk7XHrJmi3QySU+KjOLDU4sW1jG35ux/TJPMaAflWaIkzzOSHYhXt6PRhqKCoXgw=="
 }
