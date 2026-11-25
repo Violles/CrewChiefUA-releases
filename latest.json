@@ -1,0 +1,8 @@
+{
+  "Version": "0.10.0",
+  "Notes": "- Перша версія з автооновленням\n- Ліцензія: 3 дні пробного періоду, активація кодом\n- Погода окремим віджетом, модель пошкоджень, помічник заїзду в бокс\n- Межі треку LMU, Real Penalty для AC",
+  "File": "CrewChiefUA-0.10.0.zip",
+  "Sha256": "b82120ba385492fa1e0d38647f63195b76f8a84cc0c9e38a1db2719cdbd01079",
+  "Size": 359617,
+  "Sig": "qQYaNMuP3Pdn7b+Upn/LOOz2gvNIIQ08o0ibLc4O1ODuBNxyHTN3WYMBX2RqJzfxLwoafD+hUBTNd9G5aUmhuQ=="
+}

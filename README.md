@@ -1,2 +1,6 @@
-# CrewChiefUA-releases
-CrewChief UA - releases and updates
+# CrewChief UA — оновлення
+
+Тут лежать лише готові оновлення програми CrewChief UA. Програма сама перевіряє цей репозиторій і пропонує оновитися.
+
+- `latest.json` — опис останньої версії (підписаний).
+- `files/` — архіви версій.
